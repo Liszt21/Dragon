@@ -1,7 +1,14 @@
 # Liszt's bucket of scoop
 
+[Scoop](https://github.com/lukesampson/scoop)
+
+## Usage
 ``` powershell
+# Install scoop
+iwr -useb get.scoop.sh | iex
+# Add buckets
 scoop bucket add dragon https://github.com/Liszt21/Dragon
+# Enjoy
 ```
 
 ## Packages
@@ -9,4 +16,8 @@ scoop bucket add dragon https://github.com/Liszt21/Dragon
 - [ ] tim
 - [ ] qq
 - [ ] wechat
-- [ ] potplayer
+- [ ] xmind_gen
+- [ ] wegame
+- [ ] freefilesync
+- [ ] baidu_netdisk
+- [ ] netease_music
