@@ -15,11 +15,13 @@ scoop bucket add dragon https://gitee.com/Liszt21/Dragon.git
 
 ## Packages
 
-- [ ] tim
+- [x] tim
 - [ ] qq
-- [ ] wechat
+- [x] wechat
 - [ ] xmind_gen
 - [ ] wegame
 - [ ] freefilesync
-- [ ] baidu_netdisk
-- [ ] netease_music
+- [x] baidunetdisk
+- [x] cloudmusic
+- [ ] weasel
+- [ ] twinkstar
