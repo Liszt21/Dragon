@@ -1,5 +1,11 @@
 {
     "homepage": "https://pan.baidu.com/disk",
     "version": "6.8.9.1",
-    "url": "http://wppkg.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_6.8.9.1.exe#/dl.7z"
+    "url": "http://wppkg.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_6.8.9.1.exe#/dl.7z",
+    "shotrcuts": [
+        [
+            "BaiduNetdisk.exe",
+            "BaiduNetdisk"
+        ]
+    ]
 }
