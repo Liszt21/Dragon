@@ -7,7 +7,9 @@
 # Install scoop
 iwr -useb get.scoop.sh | iex
 # Add buckets
-scoop bucket add dragon https://github.com/Liszt21/Dragon
+scoop bucket add dragon https://github.com/Liszt21/Dragon.git
+# or
+scoop bucket add dragon https://gitee.com/Liszt21/Dragon.git
 # Enjoy
 ```
 

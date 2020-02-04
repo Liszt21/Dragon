@@ -1,0 +1,11 @@
+{
+    "homepage": "https://www.xmind.cn/",
+    "version": "nightly",
+    "url": "https://www.xmind.cn/zen/download/#/dl.7z",
+    "shortcuts": [
+        [
+            "xmind.exe",
+            "Xmind Gen"
+        ]
+    ]
+}

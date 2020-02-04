@@ -1,0 +1,12 @@
+{
+    "homepage": "https://office.qq.com/",
+    "description": "",
+    "version": "2.3.2",
+    "url": "https://dldir1.qq.com/qqfile/qq/TIM2.3.2/21173/TIM2.3.2.21173.exe#/dl.7z",
+    "shortcuts": [
+        [
+            "tim.exe",
+            "Tim"
+        ]
+    ]
+}
