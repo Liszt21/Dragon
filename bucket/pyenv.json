@@ -3,9 +3,9 @@
     "description": "pyenv for Windows",
     "version": "1.2.4",
     "url": "https://github.com/pyenv-win/pyenv-win/archive/master.zip",
-    "bin": "pyenv-win\\pyenv",
-    "env_add_path": ["pyenv-win\\bin","pyenv-win\\shims"],
+    "bin": "pyenv-win-master\\pyenv-win\\bin\\pyenv",
+    "env_add_path": ["pyenv-win-master\\pyenv-win\\bin","pyenv-win-master\\pyenv-win\\shims"],
     "env_set": {
-        "PYENV_HOME": "$dir"
+        "PYENV_HOME": "$dir\\pyenv-win-master"
     }
 }
