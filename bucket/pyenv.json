@@ -4,8 +4,9 @@
     "version": "1.2.4",
     "url": "https://github.com/pyenv-win/pyenv-win/archive/v1.2.4.zip",
     "bin": "pyenv-win-master\\pyenv-win\\bin\\pyenv",
-    "extract_to": [
-        ""
+    "extract_dir": [
+        "pyenv-win",
+        "mirrors.txt"
     ],
     "env_add_path": ["pyenv-win-master\\pyenv-win\\bin","pyenv-win-master\\pyenv-win\\shims"],
     "env_set": {
