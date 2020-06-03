@@ -3,16 +3,13 @@
     "description": "pyenv for Windows",
     "version": "1.2.4",
     "url": "https://github.com/pyenv-win/pyenv-win/archive/v1.2.4.zip",
-    "bin": "pyenv-win-master\\pyenv-win\\bin\\pyenv",
-    "extract_dir": [
-        "pyenv-win",
-        "mirrors.txt"
-    ],
-    "env_add_path": ["pyenv-win-master\\pyenv-win\\bin","pyenv-win-master\\pyenv-win\\shims"],
+    "bin": "pyenv-win\\bin\\pyenv",
+    "extract_dir": "pyenv-win-1.2.4",
+    "env_add_path": ["pyenv-win\\bin","pyenv-win\\shims"],
     "env_set": {
         "PYENV_HOME": "$dir\\pyenv-win-master"
     },
     "persist": [
-        "pyenv-win-master\\pyenv-win\\versions"
+        "pyenv-win\\versions"
     ]
 }
