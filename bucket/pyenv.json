@@ -7,7 +7,7 @@
     "extract_dir": "pyenv-win-1.2.4",
     "env_add_path": ["pyenv-win\\bin","pyenv-win\\shims"],
     "env_set": {
-        "PYENV_HOME": "$dir\\pyenv-win-master"
+        "PYENV_HOME": "$dir\\pyenv-win"
     },
     "persist": [
         "pyenv-win\\versions"
