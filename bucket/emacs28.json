@@ -9,20 +9,19 @@
         }
     },
     "bin": [
-        "bin\\runemacs.exe",
-        "bin\\emacs.exe",
-        "bin\\emacsclientw.exe",
-        "bin\\etags.exe",
-        "bin\\ctags.exe"
+        [
+            "bin\\runemacs.exe",
+            "emacs28"
+        ]
     ],
     "shortcuts": [
         [
             "bin\\runemacs.exe",
-            "Emacs"
+            "Emacs28"
         ],
         [
             "bin\\emacsclientw.exe",
-            "Emacs Client",
+            "Emacs Client 28",
             "-c -n -a \"\""
         ]
     ]
