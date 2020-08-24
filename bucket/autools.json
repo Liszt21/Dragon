@@ -1,0 +1,10 @@
+{
+    "homepage": "https://github.com/Liszt21/Autools",
+    "description": "Autools",
+    "version": "0.1",
+    "url": "https://github.com/Liszt21/AuTools/archive/v0.1.zip",
+    "bin": [
+        "bin\\autools.ps1"
+    ],
+    "extract_dir": "AuTools-0.1"
+}
