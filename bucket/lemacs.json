@@ -1,10 +1,10 @@
 {
     "homepage": "https://github.com/Liszt21/Lemacs",
     "description": "Lemacs",
-    "version": "0.1",
-    "url": "https://github.com/Liszt21/Lemacs/archive/v0.1.zip",
+    "version": "master",
+    "url": "https://github.com/Liszt21/Lemacs/archive/master.zip",
     "bin": [
         "bin\\lemacs.ps1"
     ],
-    "extract_dir": "Lemacs-0.1"
+    "extract_dir": "Lemacs-master"
 }
